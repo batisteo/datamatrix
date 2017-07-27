@@ -1,0 +1,9 @@
+[package]
+name = "datamatrix"
+version = "0.1.0"
+authors = ["Baptiste Darthenay <baptiste@maykinmedia.nl>"]
+
+[dependencies]
+clap = "2.25.1"
+css-color-parser = "0.1.2"
+image = "0.14.0"
