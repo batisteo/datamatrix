@@ -1,9 +1,13 @@
 [package]
 name = "datamatrix"
 version = "0.1.0"
-authors = ["Baptiste Darthenay <baptiste@maykinmedia.nl>"]
+authors = ["Baptiste Darthenay <baptiste.darthenay@gmail.com>"]
+edition = "2018"
 
 [dependencies]
 clap = "2.25.1"
 css-color-parser = "0.1.2"
 image = "0.14.0"
+termcolor = "1.0.4"
+rand = "0.6.5"
+dbg = "1.0.4"
